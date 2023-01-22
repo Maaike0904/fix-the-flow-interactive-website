@@ -2,21 +2,22 @@
 Onderstaande outline ga je gedurende deze taak in jouw eigen GitHub omgeving uitwerken. 
 De instructie vind je in: [docs/INSTRUCTIONS.md](docs/INSTRUCTIONS.md)
 
-# Titel
-<!-- Geef je project een titel en schrijf in één zin wat het is -->
+# Vini Mini - Interactive website
+Ontwerp en maak een interactieve website voor een opdrachtgever.
 
 ## User Story
-<!-- Schrijf de user story waar je aan hebt gewerkt  -->
+"Als gebruiker van de Vini Mini persoonlijke omgeving wil ik kunnen filteren op verschillende allergenen om zo de planning gericht te bekijken."
 
 ## Beschrijving
-<!-- In de Beschrijving staat hoe je project er uit ziet, hoe het werkt en wat je er mee kan. -->
-<!-- Voeg een mooie poster visual toe 📸 -->
-<!-- Voeg een link toe naar Github Pages 🌐-->
+In deze opdracht hebben we een een pop-up gemaakt. In deze pop-up kun je een nieuwe item voor de checklist aanmaken. Hierbij geef je dus een omschrijving, vul je een datum in voor wanneer de taak erin gezet moet worden, kun je aangeven of je een herinnering voor de taak wilt, en wanneer je de herinnering wilt ontvangen. Als je hier een taak aan maakt zou dit in de afvinklijst en de agenda terecht moeten komen.
+<img width="1390" alt="Schermafbeelding 2023-01-22 om 22 11 17" src="https://user-images.githubusercontent.com/112861144/213940660-70c02ef5-2786-41d1-8060-127f99d36a2c.png">
+
+🌐 Bekijk hier: https://maaike0904.github.io/Maaike-Nazneen---Vini-Mini-agenda/
 
 ## Kenmerken
-<!-- Bij Kenmerken staat welke technieken zijn gebruikt en hoe. Wat is de HTML structuur? Wat zijn de belangrijkste dingen in CSS? Wat is er met JS gedaan en hoe? -->
-
-
+- HTML
+- CSS
+- JS
 
 ## Licentie
 
